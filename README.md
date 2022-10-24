@@ -39,4 +39,5 @@ docker-compose up
             "type": "file"
         },
     ]
-}'''
+}
+'''
